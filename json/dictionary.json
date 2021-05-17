@@ -1,0 +1,32 @@
+{
+    "it": {
+        "home_title_h1": [
+            "Francesco",
+            "Saverio",
+            "Galletti"
+        ],
+        "home_title_h2": "Sviluppatore e consulente digitale",
+        "menu": {
+            "Home": "Home",
+            "About": "Chi sono",
+            "Badges": "Badge",
+            "Projects": "Progetti",
+            "Contacts": "Contatti"
+        }
+    },
+    "en": {
+        "home_title_h1": [
+            "Francesco",
+            "Saverio",
+            "Galletti"
+        ],
+        "home_title_h2": "Developer & digital consunltant",
+        "menu": {
+            "Home": "Home",
+            "About": "About",
+            "Badges": "Badges",
+            "Projects": "Projects",
+            "Contacts": "Contacts"
+        }
+    }
+}
